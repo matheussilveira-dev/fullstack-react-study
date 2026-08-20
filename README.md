@@ -8,7 +8,7 @@ entre React e uma API.
 
 Este projeto utiliza como base a API desenvolvida na primeira parte do estudo:
 
-[Fullstack API Study](LINK_DO_SEU_REPOSITORIO)
+[Fullstack API Study](https://github.com/matheussilveira-dev/fullstack-api-study)
 
 Na primeira parte foram estudados conceitos relacionados à criação da API,
 Node.js, Express, MongoDB e Prisma.
